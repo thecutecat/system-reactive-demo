@@ -17,5 +17,6 @@ void Countdown(int seconds)
 }
 
 Countdown(5);
+Countdown(10);
 
 Console.ReadLine();
